@@ -1,4 +1,4 @@
-For SNP permutation tests (SD3):
+#*For SNP permutation tests (SD3):*#
 # Analysis File = SNPPermTestQTLBio.R
 # Data files:
 Genotype file= GenotypesGxE.csv
