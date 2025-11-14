@@ -1,6 +1,6 @@
-#*For SNP permutation tests (SD3):*#
-# Analysis File = SNPPermTestQTLBio.R
-# Data files:
+#*For SNP permutation tests (SD3):*
+Analysis File = SNPPermTestQTLBio.R
+Data files:
 Genotype file= GenotypesGxE.csv
 Phenotypes 2022 file = GxE22forModelPerms.csv
 Phenotypes 2023 file = GxE23forModelPerms.csv
