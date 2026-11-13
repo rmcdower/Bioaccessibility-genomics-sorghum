@@ -11,7 +11,7 @@ Code for permutation test is meant to run one year file at a time, read commente
 # *For QTL mapping and LOD score heat map and PCA:*
 # Analysis File= CaroBioaccessibilitycode.R
 # Data Files:
-Phenotypes for Biparental Family: AllPhenosQTL.csv
-QTL info: BioQTL.csv/BioQTL.xlsx, BioKaryo.csv, and BIOQTL.csv
+Phenotypes for Biparental Family: SD1_Biparental_Caro_Bio-ABH_w_geno(1).csv
+QTL info: SD1_Biparental_Caro_Bio-QTL.csv, BioKaryo.csv is the chromosome ends for plotting
 PCA info: GAPIT.Genotype.PCA.csv --> derrived from GAPIT on SAP
-All genetic markers: Allmarkers.csv
+
